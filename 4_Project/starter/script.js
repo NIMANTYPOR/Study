@@ -7,7 +7,7 @@ const b = arr[1];
 const [x, y, z] = [2, 3, 4];
 console.log(x, y, z);
 
-ff
+
 
 
 
